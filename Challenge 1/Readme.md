@@ -57,7 +57,7 @@ This project trains a fine-tuned **MT5 model** for translating Banglish (Bengali
 
 ---
 
-## **Evaluation**
+## **Evaluation** ( demo)
 
 - **Metrics**:
   - BLEU score (using SacreBLEU).
