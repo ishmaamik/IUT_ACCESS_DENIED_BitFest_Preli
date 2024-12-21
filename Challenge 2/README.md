@@ -4,6 +4,28 @@ This API allows users to manage recipes by adding, refining, and generating sugg
 
 ---
 
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo-url.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Create a `.env` file with the following keys:
+   ```env
+   MONGO_URL=your_mongo_connection_string
+   GEMINI_API_KEY=your_google_generative_ai_key
+   ```
+4. Start the server:
+   ```bash
+   npm start
+   ```
+
+---
+
 ## API Documentation
 
 ### **1. Get All Recipes**
